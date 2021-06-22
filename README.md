@@ -12,11 +12,11 @@ Louise is supporting a project for the creation of a play. We have to change the
 ## 2. Presentation of the findings
 ### 2.1 Better success for the campaigns launched during summer
 The analysis of the theater outcomes by launch date highlights that theater projects have a greater success rate when the launch date is during the month of May and June. 
-![Outcomes based on launch date](https://user-images.githubusercontent.com/85641189/122993241-b5812300-d36c-11eb-8065-1759c4527ffd.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85641189/123000630-6d1a3300-d375-11eb-8b02-2c383ba098f9.png)
 January, March, September, and November have roughly the smaller amount of failed campaigns launched. The month of October has the highest proportion of failed campaigns launched. With the ambition to support the creation of the play "Fever", Louise should target the month of May or June to launch her campaign.
 ### 2.2 Projects with limited budget are successful
 If we focus our analysis on the play subcategory, we highlight that the project with a budget below $14.999 have a greater rate of success. More than 50% of the plays are successful. 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85641189/122997329-802b0400-d371-11eb-8792-ec4298a4aea9.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85641189/123000687-81f6c680-d375-11eb-9291-8045168c95d5.png)
 Projects with a budget over $45.000 are at risk with a higher rate of failure. Louise's project has a budget of $10.000. Though she has a higher probability of success.
 ### 2.3 Limitations of the dataset
 Our client, Louise, is supporting the creation of a play. If we focus our analysis on the subcategory Play, we have a limited amount of data to work on. Our result might not be representative. 
